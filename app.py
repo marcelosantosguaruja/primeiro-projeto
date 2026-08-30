@@ -1,5 +1,5 @@
 # Programa de cálculo de médias de notas
-# Autor: Marcelo Félix dos antos
+# Autor: Marcelo Félix dos Santos
 
 # Entrada
 nome   = input("Digite o nome do aluno: ")
